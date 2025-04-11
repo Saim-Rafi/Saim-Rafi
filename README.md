@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Saim-Rafi](https://github.com/Saim-Rafi)
 
-- 💬 Ask me about **ExpressJs,MongoDB,NodeJs,ReactJs,NextJs**
+- 💬 Ask me about **NextJs, ExpressJs, MongoDB, NodeJs, ReactJs**
 
 - 📫 How to reach me **saimrafi123@gmail.com**
 
