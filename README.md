@@ -3,6 +3,9 @@
 <h3 align="center">Aspiring Software Engineer | Bringing life to your Web Applications</h3>
 <br>
 
+<h5>Hello! I'm Saim Rafi, a passionate software developer with a strong focus on both front-end and back-end development. I specialize in technologies such as Next.Js, React.Js, Express.Js, Firebase and a lot more. I enjoy solving complex problems and building scalable, efficient applications. Currently, I'm expanding my knowledge in areas like cloud computing and Web3, always eager to learn new technologies. My goal is to create meaningful solutions that can make a positive impact and contribute to the tech community</h5>
+
+
 <p align="left"> <a href="https://twitter.com/saim__rafi" target="blank"><img src="https://img.shields.io/twitter/follow/saim__rafi?logo=twitter&style=for-the-badge" alt="saim__rafi" /></a> </p>
 
 - 🌱 I’m currently learning **Blockchain, Smart Contracts and DevOps.**
