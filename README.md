@@ -4,7 +4,7 @@
 <br>
 
 # 💫 About Me:
-✨ Portfolio : (saim-rafi-portfolio)[https://saim-rafi-portfolio.vercel.app/]
+✨ Portfolio : ![saim-rafi-portfolio](https://saim-rafi-portfolio.vercel.app/) <br>
 🔭 I’m currently working on Neura- An AI powered Notion Clone<br>
 🌱 I’m currently learning Blockchain, Smart Contracts and DevOps.<br>
 💬 Ask me about NextJs, ExpressJs, MongoDB, NodeJs, ReactJs, Firebase, Cloudfare, TailwindCSS, Shadcn<br>
